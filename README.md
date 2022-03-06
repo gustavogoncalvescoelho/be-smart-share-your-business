@@ -11,16 +11,20 @@ Necessary to have GIT installed
 
 ### Web Development React Platform 
 
-1. Clone the repository 
+1. Clone the repository
+
 git clone https://github.com/gustavogoncalvescoelho/be-smart-share-your-business.git
 
-1. Go to the project's root folder for web development platform
+2. Go to the project's root folder for web development platform
+
 cd ./be-smart-share-your-business/web-development/react-smart-app
 
-2. Install npm
+3. Install npm
+
 npm install
 
-3. If necessary, address issues that do not require attention by running
+4. If necessary, address issues that do not require attention by running
+
 npm audit fix
 
 or 
@@ -28,8 +32,10 @@ or
 To address all issues (including breaking changes) by running
 npm audit fix --force
 
-4. Install react-router
+5. Install react-router
+
 npm install react-router-dom@5
 
-5. Runs the app
+6. Runs the app
+
 npm start 
