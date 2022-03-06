@@ -1,4 +1,4 @@
-### Be Smart, Create and Share your business
+# Be Smart, Create and Share your business
 
 ## Goals
 
@@ -6,10 +6,10 @@ Creating a web development platform using using React
 
 ## Instructions
 
-# Requirements
+### Requirements
 Necessary to have GIT installed
 
-# Web Development React Platform 
+### Web Development React Platform 
 
 1. Clone the repository 
 git clone https://github.com/gustavogoncalvescoelho/be-smart-share-your-business.git
